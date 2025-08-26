@@ -1,0 +1,33 @@
+# Maven build output (compiled classes, jars)
+atm_system/target/
+
+# VS Code IDE settings
+atm_system/.vscode/
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse/IntelliJ IDE files (in case others use them)
+*.project
+*.classpath
+*.idea/
+*.iml
+
+# Maven wrapper jar (optional, will be downloaded)
+.mvn/wrapper/maven-wrapper.jar
+
+# Generated JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
